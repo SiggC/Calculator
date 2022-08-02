@@ -1,4 +1,6 @@
-public class SiggsSumOfNumbers {
+package source.main.java.com.math;
+
+public class siggSum {
 
     public static void main(String args[]) {
 
