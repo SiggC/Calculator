@@ -1,4 +1,4 @@
-package source.main.source.main.java.com.ArraysArrayList;
+package src.main.java.com.sirgourny.ArraysArrayList;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package source.main.source.main.java.com.ArraysMinMax;
+package src.main.java.com.sirgourny.ArraysMinMax;
 
 import java.util.Arrays;
 /*

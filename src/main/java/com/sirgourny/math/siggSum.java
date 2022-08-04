@@ -1,4 +1,4 @@
-package source.main.source.main.java.com.math;
+package src.main.java.com.sirgourny.math;
 
 public class siggSum {
 
